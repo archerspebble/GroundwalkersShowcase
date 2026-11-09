@@ -27,7 +27,7 @@ input[type="file"] {
 	grid-column: 1 / span 3;
 	grid-row: 1;
 	text-align: center;
-	text-shadow: 0px 0px 5px #974040;
+	text-shadow: 0px 0px 6px #974040;
 }
 
 .heading__image {
